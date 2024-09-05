@@ -26,12 +26,12 @@
   "homepage": "https://github.com/IgorAntun/fastyper#readme",
   "dependencies": {
     "babel-cli": "6.26.0",
-    "babel-plugin-ramda": "1.4.3",
+    "babel-plugin-ramda": "2.1.0",
     "express": "4.16.2",
     "morgan": "1.9.0",
-    "nodemon": "1.12.1",
+    "nodemon": "2.0.20",
     "ramda": "0.25.0",
-    "socket.io": "2.0.4",
+    "socket.io": "2.1.0",
     "uuid": "3.1.0"
   },
   "devDependencies": {
